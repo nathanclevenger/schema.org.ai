@@ -1,5 +1,6 @@
 import { Router } from 'https://pkg.do/itty-router'
 import { withParams, json } from 'https://pkg.do/itty-router-extras'
+import _ from 'https://pkg.do/lodash'
 
 const router = Router()
 
